@@ -1,6 +1,8 @@
 # testando
 Apenas um teste de como enviar um projeto no meu repositório 😁️
 
+<img align="center" alt="Mbala-pic" style="border-radius:50px;" src="https://github.com/MauricioMbala02/verifica-Email/blob/main/Captura%20de%20ecr%C3%A3%20de%202023-02-07%2009-58-23.png">
+
 # Tecnologias utilizadas
 
 <div style="display: inline_block"><br>
